@@ -135,7 +135,7 @@ This length enables:
 ### Example
 ```
 Finding your purpose requires honest self-reflection about what energizes you.
-Start by noticing activities that make you lose track of time—these flow states
+Start by noticing activities that make you lose track of time— these flow states
 often point toward meaningful work. Keep a journal for two weeks tracking when
 you feel most engaged.
 ```
@@ -254,7 +254,7 @@ Life purpose is defined as an individual's overarching aim that provides
 direction and motivation for goal-directed behavior.
 
 <!-- TMM Voice -->
-Your life purpose is what gives your days meaning—it's the thread that
+Your life purpose is what gives your days meaning— it's the thread that
 connects your values, strengths, and the impact you want to make. When
 you're living in alignment with your purpose, work feels less like work.
 ```
