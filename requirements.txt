@@ -1,0 +1,16 @@
+# AI Content Optimizer Dependencies
+# Includes both AIO and CTR system requirements
+
+# Google APIs
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Database (PostgreSQL support for CI/production)
+psycopg2-binary>=2.9.9  # Optional: only needed for PostgreSQL backend
